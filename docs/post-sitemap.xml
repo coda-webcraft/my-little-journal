@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026-10-02の6:44 pmに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
+<!-- このサイトマップは、2026-10-02の6:58 pmに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/my-little-journal/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/kissa-ray/]]></loc>
+		<loc><![CDATA[/my-little-journal/kissa-ray/]]></loc>
 		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/kissa-Ray1.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray1.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/kissa-Ray2.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray2.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/フェリーで九州旅行に行ってきました/]]></loc>
+		<loc><![CDATA[/my-little-journal/フェリーで九州旅行に行ってきました/]]></loc>
 		<lastmod><![CDATA[2026-10-02T09:18:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/08/mojiko.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/08/mojiko.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/08/yamato.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/08/yamato.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/tomato/]]></loc>
+		<loc><![CDATA[/my-little-journal/tomato/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/28969080_s.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/28969080_s.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/spring/]]></loc>
+		<loc><![CDATA[/my-little-journal/spring/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/34475945_s.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/34475945_s.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/book/]]></loc>
+		<loc><![CDATA[/my-little-journal/book/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/27460193_s.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/27460193_s.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/banpaku/]]></loc>
+		<loc><![CDATA[/my-little-journal/banpaku/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/yumeshima.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/yumeshima.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/tower.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/tower.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/funaiken/]]></loc>
+		<loc><![CDATA[/my-little-journal/funaiken/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/sunflower.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/sunflower.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/funesiru.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/funesiru.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/scone/]]></loc>
+		<loc><![CDATA[/my-little-journal/scone/]]></loc>
 		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2026/06/28730108_s.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/28730108_s.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
