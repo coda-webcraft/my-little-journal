@@ -27,6 +27,7 @@
 
 ## フォルダ構成
 
+```
 my-little-journal/
 ├── images/
 │   └── avatar.png
@@ -48,6 +49,7 @@ my-little-journal/
 ├── sidebar.php
 ├── single.php
 └── style.css
+```
 
 ## スクリーンショット
 
