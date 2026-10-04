@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026-10-02の6:58 pmに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
+<!-- このサイトマップは、2026-10-04の11:46 amに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
 
 <?xml-stylesheet type="text/xsl" href="/my-little-journal/main-sitemap.xsl"?>
 <urlset
@@ -8,36 +8,22 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/my-little-journal/kissa-ray/]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
+		<loc><![CDATA[/my-little-journal/ferry-kyushu/]]></loc>
+		<lastmod><![CDATA[2026-10-04T00:06:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray1.jpeg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/10/mojiko-1.jpeg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray2.jpeg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/my-little-journal/フェリーで九州旅行に行ってきました/]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:18:53+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[/my-little-journal/wp-content/uploads/2026/08/mojiko.jpg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[/my-little-journal/wp-content/uploads/2026/08/yamato.jpg]]>			</image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/10/yamato-1.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/my-little-journal/tomato/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T23:08:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -47,7 +33,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/my-little-journal/spring/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T23:07:30+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -57,7 +43,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/my-little-journal/book/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T23:06:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -67,7 +53,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/my-little-journal/banpaku/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T23:04:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -80,8 +66,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc><![CDATA[/my-little-journal/kissa-ray/]]></loc>
+		<lastmod><![CDATA[2026-10-03T23:02:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray1.jpeg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[/my-little-journal/wp-content/uploads/2026/06/kissa-Ray2.jpeg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc><![CDATA[/my-little-journal/funaiken/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T23:00:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -95,7 +95,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/my-little-journal/scone/]]></loc>
-		<lastmod><![CDATA[2026-08-02T20:24:35+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-03T22:58:03+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>

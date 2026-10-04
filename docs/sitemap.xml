@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- このサイトマップは、2026-10-02の6:58 pmに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
+<!-- このサイトマップは、2026-10-04の11:46 amに、WordPress 用のオリジナル SEO プラグイン All in One SEO v5.0.2.1により動的生成されました。 -->
 
 <?xml-stylesheet type="text/xsl" href="/my-little-journal/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc><![CDATA[/my-little-journal/addl-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-04T00:06:47+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/my-little-journal/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-04T00:06:47+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/my-little-journal/page-sitemap.xml]]></loc>
@@ -17,10 +17,10 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/my-little-journal/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-04T00:06:47+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[/my-little-journal/post_tag-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-10-02T09:35:55+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-10-04T00:06:47+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
