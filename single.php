@@ -4,7 +4,7 @@
     <main class="main-content">
         <div class="container">
             <?php my_little_journal_breadcrumb(); ?>
-            <a href="<?php echo esc_url( home_url() ); ?>" class="back-link">ホームに戻る</a>
+            <a href="<?php echo esc_url(home_url()); ?>" class="back-link">ホームに戻る</a>
             <?php
             while (have_posts()):
                 the_post();
@@ -16,16 +16,23 @@
                 <?php endif; ?>
                 <div class="post-content">
                     <div class="post-header">
-                        <div class="post-title"><?php the_title(); ?></div>
+                        <div class="post-title">
+                            <?php the_title(); ?>
+                        </div>
+                        <div class="post-meta">
+                            <div class="post-tag">
+                                <?php the_category(', '); ?>
+                            </div>
+                            <div class="post-date">
+                                <?php echo get_the_time('Y.m.d'); ?>
+                            </div>
+                        </div>
                     </div>
-                    <?php the_content(); ?>
+                    <div class="post-divider"></div>
+                    <div class="post-body">
+                        <?php the_content(); ?>
+                    </div>
                 </div>
-                <?php /*
-                <!-- コメント -->
-                <div class="comments-area">
-                <?php comments_template(); ?>
-                </div>
-                */ ?>
 
             <?php endwhile; ?>
 
@@ -47,9 +54,13 @@
                             $related->the_post(); ?>
                             <a href="<?php the_permalink(); ?>" class="list-item">
                                 <div class="list-meta">
-                                    <div class="list-title"><?php the_title(); ?></div>
+                                    <div class="list-title">
+                                        <?php the_title(); ?>
+                                    </div>
                                     <div class="list-info">
-                                        <span><?php echo get_the_time('Y.m.d'); ?></span>
+                                        <span>
+                                            <?php echo get_the_time('Y.m.d'); ?>
+                                        </span>
                                     </div>
                                 </div>
                                 <div class="list-arrow">›</div>

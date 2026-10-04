@@ -1096,3 +1096,35 @@ body {
   text-decoration: underline;
   font-size: 16px;
 }
+
+.post-body p {
+  margin-bottom: 1.5em;
+  line-height: 1.8;
+}
+
+/* カテゴリー一覧の数字を右寄せ */
+.wp-block-categories-list li {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* タグ一覧をボタン風に */
+.wp-block-tag-cloud a {
+  display: inline-block;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 4px 12px;
+  margin: 4px;
+  font-size: 13px !important;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.wp-block-tag-cloud a:hover {
+  background-color: var(--beige);
+}
+
+/* Aboutの文章とボタンの間の余白 */
+.wp-block-group .wp-block-paragraph {
+  margin-bottom: 16px;
+}
